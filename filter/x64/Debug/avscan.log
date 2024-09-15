@@ -1,0 +1,35 @@
+﻿  Building 'avscan' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\avscan.inf [Version] section with DriverVer=09/14/2024,19.39.47.121
+C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\avscan.inf(27-27): warning 2083: Section [defaultinstall.ntamd64.10.0...25952] not referenced or used.
+C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\avscan.inf(31-31): warning 2083: Section [defaultinstall.ntamd64.10.0...25952.services] not referenced or used.
+C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\avscan.inf(49-49): warning 2083: Section [avscan.service] not referenced or used.
+C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\avscan.inf(64-64): warning 2083: Section [avscan.addregistry] not referenced or used.
+C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\avscan.inf(82-82): warning 2083: Section [avscan.files] not referenced or used.
+  avscan.c
+  communication.c
+  context.c
+context.c(677): warning C4047: “=”:“PFLT_INSTANCE *”与“PFLT_INSTANCE”的间接级别不同
+  csvfs.c
+  scan.c
+  utility.c
+  正在生成代码...
+  avscan.vcxproj -> C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\filter\x64\Debug\avscan.sys
+  avscan.vcxproj -> x64\Debug\avscan.pdb (Partial PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\filter\x64\Debug\avscan.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\filter\x64\Debug\avscan\avscan.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\avscan\avscan.cat
+  

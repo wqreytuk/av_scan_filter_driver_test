@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=WindowsKernelModeDriver10.0:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
+Debug|x64|C:\Users\Administrator\Downloads\1Remote-1.0.0-net6-x64\microsoft Windows-driver-samples main filesys-miniFilter_avscan (1)\|
